@@ -1,0 +1,303 @@
+2024-06-01 11:55:05,640 - INFO - Script started
+2024-06-01 11:55:07,280 - ERROR - Error scraping heading from https://www.scrapethissite.com/pages/forms/?page_num=1: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2024-06-01 11:55:07,838 - INFO - Script finished
+2024-06-01 11:56:37,218 - INFO - Script started
+2024-06-01 11:56:38,422 - INFO - Successfully scraped heading from https://www.scrapethissite.com/pages/forms/?page_num=1
+2024-06-01 11:56:38,423 - INFO - Script finished
+2024-06-01 11:57:49,241 - INFO - Script started
+2024-06-01 11:57:50,178 - INFO - Successfully scraped heading from https://www.scrapethissite.com/pages/forms/?page_num=1
+2024-06-01 11:57:50,188 - INFO - Script finished
+2024-06-01 11:58:17,862 - INFO - Script started
+2024-06-01 11:58:18,805 - INFO - Successfully scraped heading from https://www.scrapethissite.com/pages/forms/?page_num=1
+2024-06-01 11:58:19,217 - INFO - Script finished
+2024-06-01 11:58:58,619 - INFO - Script started
+2024-06-01 11:59:00,080 - INFO - Successfully scraped heading from https://www.scrapethissite.com/pages/forms/?page_num=1
+2024-06-01 11:59:00,434 - INFO - Script finished
+2024-06-01 12:07:00,608 - INFO - Script started
+2024-06-01 12:07:01,255 - INFO - Script finished
+2024-06-01 12:07:09,005 - INFO - Script started
+2024-06-01 12:07:09,013 - INFO - Script finished
+2024-06-01 12:09:21,427 - INFO - Script started
+2024-06-01 12:09:22,800 - INFO - Successfully scraped heading from https://www.scrapethissite.com/pages/ajax-javascript/#2010
+2024-06-01 12:09:22,803 - INFO - Script finished
+2024-06-01 12:09:46,679 - INFO - Script started
+2024-06-01 12:09:48,772 - INFO - Successfully scraped heading from https://www.scrapethissite.com/pages/ajax-javascript/#2010
+2024-06-01 12:09:48,776 - INFO - Script finished
+2024-06-01 12:09:56,666 - INFO - Script started
+2024-06-01 12:09:57,975 - INFO - Successfully scraped heading from https://www.scrapethissite.com/pages/ajax-javascript/#2011
+2024-06-01 12:09:57,979 - INFO - Script finished
+2024-06-01 12:11:49,921 - INFO - Script started
+2024-06-01 12:11:51,707 - INFO - Successfully scraped heading from https://www.scrapethissite.com/pages/ajax-javascript/#2010
+2024-06-01 12:11:53,104 - ERROR - Error scraping description from https://www.scrapethissite.com/pages/ajax-javascript/#2010: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2024-06-01 12:13:07,114 - INFO - Script started
+2024-06-01 12:13:07,446 - ERROR - Error scraping tables from scraping2010.html: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2024-06-01 12:13:09,051 - INFO - Successfully scraped heading from https://www.scrapethissite.com/pages/ajax-javascript/#2010
+2024-06-01 12:13:10,334 - ERROR - Error scraping description from https://www.scrapethissite.com/pages/ajax-javascript/#2010: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2024-06-01 12:14:13,457 - INFO - Script started
+2024-06-01 12:14:13,789 - ERROR - Error scraping tables from scraping2010.html: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2024-06-01 12:14:15,234 - INFO - Successfully scraped heading from https://www.scrapethissite.com/pages/ajax-javascript/#2010
+2024-06-01 12:14:16,845 - ERROR - Error scraping description from https://www.scrapethissite.com/pages/ajax-javascript/#2010: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2024-06-01 12:15:38,969 - INFO - Script started
+2024-06-01 12:15:39,279 - ERROR - Error scraping tables from scraping2010.html: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2024-06-01 12:15:40,775 - INFO - Successfully scraped heading from https://www.scrapethissite.com/pages/ajax-javascript/#2010
+2024-06-01 12:15:40,779 - ERROR - Error scraping description from scraping2010.html: Invalid URL 'scraping2010.html': No scheme supplied. Perhaps you meant https://scraping2010.html?
+2024-06-01 12:16:17,263 - INFO - Script started
+2024-06-01 12:16:17,576 - ERROR - Error scraping tables from scraping2010.html: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2024-06-01 12:16:18,970 - INFO - Successfully scraped heading from https://www.scrapethissite.com/pages/ajax-javascript/#2010
+2024-06-01 12:16:18,976 - ERROR - Error scraping description from scraping2010.html: Invalid URL 'scraping2010.html': No scheme supplied. Perhaps you meant https://scraping2010.html?
+2024-06-01 12:16:19,008 - INFO - Script finished
+2024-06-01 12:17:50,681 - INFO - Script started
+2024-06-01 12:17:51,002 - ERROR - Error scraping tables from scraping2010.html: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2024-06-01 12:17:52,360 - INFO - Successfully scraped heading from https://www.scrapethissite.com/pages/ajax-javascript/#2010
+2024-06-01 12:17:52,364 - ERROR - Error scraping description from scraping2010.html: Invalid URL 'scraping2010.html': No scheme supplied. Perhaps you meant https://scraping2010.html?
+2024-06-01 12:17:52,374 - INFO - Script finished
+2024-06-01 12:18:37,384 - INFO - Script started
+2024-06-01 12:18:37,935 - INFO - Successfully scraped tables from scraping2010.html
+2024-06-01 12:18:38,721 - INFO - Successfully scraped heading from https://www.scrapethissite.com/pages/ajax-javascript/#2010
+2024-06-01 12:18:38,724 - ERROR - Error scraping description from scraping2010.html: Invalid URL 'scraping2010.html': No scheme supplied. Perhaps you meant https://scraping2010.html?
+2024-06-01 12:18:38,823 - INFO - Script finished
+2024-06-01 12:19:39,388 - INFO - Script started
+2024-06-01 12:19:39,710 - INFO - Successfully scraped tables from scraping2010.html
+2024-06-01 12:19:40,505 - INFO - Successfully scraped heading from https://www.scrapethissite.com/pages/ajax-javascript/#2010
+2024-06-01 12:19:41,278 - INFO - Successfully scraped description from https://www.scrapethissite.com/pages/ajax-javascript/#2010
+2024-06-01 12:19:41,286 - INFO - Script finished
+2024-06-01 12:20:00,271 - INFO - Script started
+2024-06-01 12:20:00,589 - INFO - Successfully scraped tables from scraping2010.html
+2024-06-01 12:20:01,328 - INFO - Successfully scraped heading from https://www.scrapethissite.com/pages/ajax-javascript/#2010
+2024-06-01 12:20:02,340 - INFO - Successfully scraped description from https://www.scrapethissite.com/pages/ajax-javascript/#2010
+2024-06-01 12:20:02,347 - INFO - Script finished
+2024-06-01 12:20:22,158 - INFO - Script started
+2024-06-01 12:20:22,475 - INFO - Successfully scraped tables from scraping2010.html
+2024-06-01 12:20:23,232 - INFO - Successfully scraped heading from https://www.scrapethissite.com/pages/ajax-javascript/#2010
+2024-06-01 12:20:23,989 - INFO - Successfully scraped description from https://www.scrapethissite.com/pages/ajax-javascript/#2010
+2024-06-01 12:20:23,997 - INFO - Script finished
+2024-06-01 12:21:04,691 - INFO - Script started
+2024-06-01 12:21:05,011 - ERROR - Error scraping tables from scraping2010.html: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2024-06-01 12:21:06,575 - INFO - Successfully scraped heading from https://www.scrapethissite.com/pages/ajax-javascript/#2010
+2024-06-01 12:21:07,835 - ERROR - Error scraping description from https://www.scrapethissite.com/pages/ajax-javascript/#2010: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2024-06-01 12:21:07,852 - INFO - Script finished
+2024-06-01 12:22:03,549 - INFO - Script started
+2024-06-01 12:22:03,853 - ERROR - Error scraping tables from scraping2010.html: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2024-06-01 12:22:05,440 - INFO - Successfully scraped heading from https://www.scrapethissite.com/pages/ajax-javascript/#2010
+2024-06-01 12:22:06,982 - ERROR - Error scraping description from https://www.scrapethissite.com/pages/ajax-javascript/#2010: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2024-06-01 12:23:28,934 - INFO - Script started
+2024-06-01 12:23:29,167 - INFO - Successfully scraped tables from scraping2010.html
+2024-06-01 12:23:29,949 - INFO - Successfully scraped heading from https://www.scrapethissite.com/pages/ajax-javascript/#2010
+2024-06-01 12:23:30,642 - INFO - Successfully scraped description from https://www.scrapethissite.com/pages/ajax-javascript/#2010
+2024-06-01 12:23:30,667 - INFO - Script finished
+2024-06-01 12:24:01,693 - INFO - Script started
+2024-06-01 12:24:01,908 - INFO - Successfully scraped tables from scraping2010.html
+2024-06-01 12:24:02,721 - INFO - Successfully scraped heading from https://www.scrapethissite.com/pages/ajax-javascript/#2010
+2024-06-01 12:24:03,429 - INFO - Successfully scraped description from https://www.scrapethissite.com/pages/ajax-javascript/#2010
+2024-06-01 12:24:03,452 - INFO - Script finished
+2024-06-01 12:24:27,850 - INFO - Script started
+2024-06-01 12:24:28,051 - INFO - Successfully scraped tables from scraping2010.html
+2024-06-01 12:24:28,816 - INFO - Successfully scraped heading from https://www.scrapethissite.com/pages/ajax-javascript/#2010
+2024-06-01 12:24:29,739 - INFO - Successfully scraped description from https://www.scrapethissite.com/pages/ajax-javascript/#2010
+2024-06-01 12:24:29,766 - INFO - Script finished
+2024-06-01 12:24:53,648 - INFO - Script started
+2024-06-01 12:24:53,814 - INFO - Successfully scraped tables from scraping2010.html
+2024-06-01 12:24:54,628 - INFO - Successfully scraped heading from https://www.scrapethissite.com/pages/ajax-javascript/#2010
+2024-06-01 12:24:55,627 - INFO - Successfully scraped description from https://www.scrapethissite.com/pages/ajax-javascript/#2010
+2024-06-01 12:24:55,630 - INFO - Script finished
+2024-06-01 12:25:18,008 - INFO - Script started
+2024-06-01 12:25:18,184 - INFO - Successfully scraped tables from scraping2010.html
+2024-06-01 12:25:19,253 - INFO - Successfully scraped heading from https://www.scrapethissite.com/pages/ajax-javascript/#2010
+2024-06-01 12:25:20,026 - INFO - Successfully scraped description from https://www.scrapethissite.com/pages/ajax-javascript/#2010
+2024-06-01 12:25:20,030 - INFO - Script finished
+2024-06-01 12:25:48,954 - INFO - Script started
+2024-06-01 12:25:49,177 - ERROR - Error scraping tables from scraping2010.html: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2024-06-01 12:25:50,285 - INFO - Successfully scraped heading from https://www.scrapethissite.com/pages/ajax-javascript/#2010
+2024-06-01 12:25:51,229 - ERROR - Error scraping description from https://www.scrapethissite.com/pages/ajax-javascript/#2010: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2024-06-01 12:29:15,556 - INFO - Script started
+2024-06-01 12:29:15,787 - ERROR - Error scraping tables from scraping2010.html: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2024-06-01 12:29:17,014 - INFO - Successfully scraped heading from https://www.scrapethissite.com/pages/ajax-javascript/#2010
+2024-06-01 12:29:18,215 - ERROR - Error scraping description from https://www.scrapethissite.com/pages/ajax-javascript/#2010: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2024-06-01 12:31:39,265 - INFO - Script started
+2024-06-01 12:31:39,458 - ERROR - Error scraping tables from scraping2010.html: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2024-06-01 12:31:40,447 - INFO - Successfully scraped heading from https://www.scrapethissite.com/pages/ajax-javascript/#2010
+2024-06-01 12:31:41,475 - ERROR - Error scraping description from https://www.scrapethissite.com/pages/ajax-javascript/#2010: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2024-06-01 12:31:41,497 - INFO - Script finished
+2024-06-01 12:32:20,800 - INFO - Script started
+2024-06-01 12:32:21,166 - INFO - Successfully scraped tables from scraping2010.html
+2024-06-01 12:32:21,917 - INFO - Successfully scraped heading from https://www.scrapethissite.com/pages/ajax-javascript/#2010
+2024-06-01 12:32:22,724 - INFO - Successfully scraped description from https://www.scrapethissite.com/pages/ajax-javascript/#2010
+2024-06-01 12:32:22,755 - INFO - Script finished
+2024-06-01 12:32:41,426 - INFO - Script started
+2024-06-01 12:32:41,660 - ERROR - Error scraping tables from scraping2010.html: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2024-06-01 12:32:42,705 - INFO - Successfully scraped heading from https://www.scrapethissite.com/pages/ajax-javascript/#2010
+2024-06-01 12:32:43,687 - ERROR - Error scraping description from https://www.scrapethissite.com/pages/ajax-javascript/#2010: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2024-06-01 12:32:43,707 - INFO - Script finished
+2024-06-01 12:33:27,142 - INFO - Script started
+2024-06-01 12:33:27,331 - ERROR - Error scraping tables from scraping2010.html: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2024-06-01 12:33:28,313 - INFO - Successfully scraped heading from https://www.scrapethissite.com/pages/ajax-javascript/#2010
+2024-06-01 12:33:29,284 - INFO - Successfully scraped description from https://www.scrapethissite.com/pages/ajax-javascript/#2010
+2024-06-01 12:33:29,292 - INFO - Script finished
+2024-06-01 12:34:19,919 - INFO - Script started
+2024-06-01 12:34:20,100 - ERROR - Error scraping tables from scraping2010.html: Couldn't find a tree builder with the features you requested: lxml. Do you need to install a parser library?
+2024-06-01 12:34:21,154 - INFO - Successfully scraped heading from https://www.scrapethissite.com/pages/ajax-javascript/#2010
+2024-06-01 12:34:22,343 - INFO - Successfully scraped description from https://www.scrapethissite.com/pages/ajax-javascript/#2010
+2024-06-01 12:34:22,363 - INFO - Script finished
+2024-06-01 12:35:34,250 - INFO - Script started
+2024-06-01 12:35:34,434 - INFO - Successfully scraped tables from scraping2010.html
+2024-06-01 12:35:35,210 - INFO - Successfully scraped heading from https://www.scrapethissite.com/pages/ajax-javascript/#2010
+2024-06-01 12:35:35,944 - INFO - Successfully scraped description from https://www.scrapethissite.com/pages/ajax-javascript/#2010
+2024-06-01 12:35:35,961 - INFO - Script finished
+2024-06-01 12:35:59,354 - INFO - Script started
+2024-06-01 12:35:59,551 - INFO - Successfully scraped tables from scraping2010.html
+2024-06-01 12:36:00,493 - INFO - Successfully scraped heading from https://www.scrapethissite.com/pages/ajax-javascript/#2010
+2024-06-01 12:36:01,457 - INFO - Successfully scraped description from https://www.scrapethissite.com/pages/ajax-javascript/#2010
+2024-06-01 12:36:01,486 - INFO - Script finished
+2024-06-01 12:39:22,118 - INFO - Script started
+2024-06-01 12:39:22,118 - INFO - Script finished
+2024-06-01 12:46:27,946 - INFO - Script started
+2024-06-01 12:46:28,654 - INFO - Script finished
+2024-06-01 12:47:36,342 - INFO - Script started
+2024-06-01 12:47:37,036 - INFO - Script finished
+2024-06-01 12:48:02,535 - INFO - Script started
+2024-06-01 12:48:03,268 - INFO - Script finished
+2024-06-01 12:49:15,849 - INFO - Script started
+2024-06-01 12:49:16,499 - ERROR - Error scraping content from https://www.scrapethissite.com/pages/advanced/: 'list' object has no attribute 'replace'
+2024-06-01 12:49:16,499 - INFO - Script finished
+2024-06-01 12:49:41,037 - INFO - Script started
+2024-06-01 12:49:41,769 - INFO - Script finished
+2024-06-01 12:50:27,094 - INFO - Script started
+2024-06-01 12:50:27,804 - INFO - Script finished
+2024-06-01 12:52:01,643 - INFO - Script started
+2024-06-01 12:52:02,756 - INFO - Script finished
+2024-06-01 12:52:50,940 - INFO - Script started
+2024-06-01 12:52:51,893 - ERROR - Error scraping content from https://www.scrapethissite.com/pages/advanced/: 'NoneType' object has no attribute 'text'
+2024-06-01 12:52:51,893 - INFO - Script finished
+2024-06-01 12:54:18,878 - INFO - Script started
+2024-06-01 12:54:19,719 - ERROR - Error scraping content from https://www.scrapethissite.com/pages/advanced/: 'NoneType' object has no attribute 'text'
+2024-06-01 12:54:19,719 - INFO - Script finished
+2024-06-01 12:54:57,280 - INFO - Script started
+2024-06-01 12:54:57,930 - ERROR - Error scraping content from https://www.scrapethissite.com/pages/advanced/: 'NoneType' object has no attribute 'text'
+2024-06-01 12:54:57,931 - INFO - Script finished
+2024-06-01 12:55:46,574 - INFO - Script started
+2024-06-01 12:55:47,234 - INFO - Script finished
+2024-06-01 12:56:05,459 - INFO - Script started
+2024-06-01 12:56:06,199 - INFO - Script finished
+2024-06-01 12:59:29,112 - INFO - Script started
+2024-06-01 12:59:29,830 - INFO - Successfully scraped content from https://www.scrapethissite.com/pages/advanced/
+2024-06-01 12:59:49,254 - INFO - Script started
+2024-06-01 12:59:50,420 - INFO - Successfully scraped content from https://www.scrapethissite.com/pages/advanced/
+2024-06-01 13:00:07,901 - INFO - Script started
+2024-06-01 13:00:08,927 - INFO - Successfully scraped content from https://www.scrapethissite.com/pages/advanced/
+2024-06-01 13:00:09,117 - INFO - Script finished
+2024-06-01 13:00:26,608 - INFO - Script started
+2024-06-01 13:00:27,853 - INFO - Successfully scraped content from https://www.scrapethissite.com/pages/advanced/
+2024-06-01 13:00:28,055 - INFO - Script finished
+2024-06-01 13:01:43,860 - INFO - Script started
+2024-06-01 13:01:44,873 - INFO - Successfully scraped content from https://www.scrapethissite.com/pages/advanced/
+2024-06-01 13:01:45,068 - INFO - Script finished
+2024-06-01 13:06:47,534 - INFO - Script started
+2024-06-01 13:06:48,919 - INFO - Successfully scraped hockey data from https://www.scrapethissite.com/pages/forms/?page_num=1
+2024-06-01 13:06:50,033 - INFO - Successfully scraped heading from https://www.scrapethissite.com/pages/forms/?page_num=1
+2024-06-01 13:06:51,136 - INFO - Successfully scraped description from https://www.scrapethissite.com/pages/forms/?page_num=1
+2024-06-01 13:06:51,167 - INFO - Script finished
+2024-06-01 13:06:53,992 - INFO - Script started
+2024-06-01 13:06:55,098 - INFO - Successfully scraped hockey data from https://www.scrapethissite.com/pages/forms/?page_num=5
+2024-06-01 13:06:56,333 - INFO - Successfully scraped heading from https://www.scrapethissite.com/pages/forms/?page_num=5
+2024-06-01 13:06:57,490 - INFO - Successfully scraped description from https://www.scrapethissite.com/pages/forms/?page_num=5
+2024-06-01 13:06:57,494 - INFO - Script finished
+2024-06-01 13:16:06,977 - INFO - Script started
+2024-06-01 13:16:07,020 - INFO - Successfully scraped tables from scraping2010.html
+2024-06-01 13:16:08,149 - INFO - Successfully scraped heading from https://www.scrapethissite.com/pages/ajax-javascript/#2010
+2024-06-01 13:16:08,872 - INFO - Successfully scraped description from https://www.scrapethissite.com/pages/ajax-javascript/#2010
+2024-06-01 13:16:08,890 - INFO - Script finished
+2024-06-01 13:16:32,302 - INFO - Script started
+2024-06-01 13:16:32,349 - INFO - Successfully scraped tables from scraping2010.html
+2024-06-01 13:16:33,392 - INFO - Successfully scraped heading from https://www.scrapethissite.com/pages/ajax-javascript/#2010
+2024-06-01 13:16:34,357 - INFO - Successfully scraped description from https://www.scrapethissite.com/pages/ajax-javascript/#2010
+2024-06-01 13:16:34,391 - INFO - Script finished
+2024-06-01 13:18:57,014 - INFO - Script started
+2024-06-01 13:18:57,034 - INFO - Successfully scraped tables from scraping2010.html
+2024-06-01 13:18:58,162 - INFO - Successfully scraped heading from https://www.scrapethissite.com/pages/ajax-javascript/#2010
+2024-06-01 13:18:59,192 - INFO - Successfully scraped description from https://www.scrapethissite.com/pages/ajax-javascript/#2010
+2024-06-01 13:18:59,225 - INFO - Script finished
+2024-06-01 13:19:01,232 - INFO - Script started
+2024-06-01 13:19:03,039 - INFO - Successfully scraped hockey data from https://www.scrapethissite.com/pages/forms/?page_num=1
+2024-06-01 13:19:04,418 - INFO - Successfully scraped heading from https://www.scrapethissite.com/pages/forms/?page_num=1
+2024-06-01 13:19:04,942 - INFO - Script started
+2024-06-01 13:19:05,476 - INFO - Successfully scraped description from https://www.scrapethissite.com/pages/forms/?page_num=1
+2024-06-01 13:19:05,943 - INFO - Successfully scraped content from https://www.scrapethissite.com/pages/advanced/
+2024-06-01 13:19:05,948 - INFO - Script finished
+2024-06-01 13:20:56,379 - INFO - Script started
+2024-06-01 13:20:56,424 - INFO - Successfully scraped tables from scraping2010.html
+2024-06-01 13:20:57,128 - INFO - Successfully scraped heading from https://www.scrapethissite.com/pages/ajax-javascript/#2010
+2024-06-01 13:20:57,837 - INFO - Successfully scraped description from https://www.scrapethissite.com/pages/ajax-javascript/#2010
+2024-06-01 13:20:57,862 - INFO - Script finished
+2024-06-01 13:21:11,168 - INFO - Script started
+2024-06-01 13:21:11,194 - INFO - Successfully scraped tables from scraping2010.html
+2024-06-01 13:21:12,224 - INFO - Successfully scraped heading from https://www.scrapethissite.com/pages/ajax-javascript/#2010
+2024-06-01 13:21:13,186 - INFO - Successfully scraped description from https://www.scrapethissite.com/pages/ajax-javascript/#2010
+2024-06-01 13:21:13,214 - INFO - Script finished
+2024-06-01 13:21:57,048 - INFO - Script started
+2024-06-01 13:21:57,063 - INFO - Successfully scraped tables from scraping2010.html
+2024-06-01 13:21:58,052 - INFO - Successfully scraped heading from https://www.scrapethissite.com/pages/ajax-javascript/#2010
+2024-06-01 13:21:59,024 - INFO - Successfully scraped description from https://www.scrapethissite.com/pages/ajax-javascript/#2010
+2024-06-01 13:21:59,030 - INFO - Script finished
+2024-06-01 13:24:05,056 - INFO - Script started
+2024-06-01 13:24:05,084 - INFO - Successfully scraped tables from scraping2010.html
+2024-06-01 13:24:06,263 - INFO - Successfully scraped heading from https://www.scrapethissite.com/pages/ajax-javascript/#2010
+2024-06-01 13:24:07,289 - INFO - Successfully scraped description from https://www.scrapethissite.com/pages/ajax-javascript/#2010
+2024-06-01 13:24:07,321 - INFO - Script finished
+2024-06-01 13:26:32,017 - INFO - Script started
+2024-06-01 13:26:32,057 - INFO - Successfully scraped tables from scraping2010.html
+2024-06-01 13:26:32,983 - INFO - Successfully scraped heading from https://www.scrapethissite.com/pages/ajax-javascript/#2010
+2024-06-01 13:26:33,750 - INFO - Successfully scraped description from https://www.scrapethissite.com/pages/ajax-javascript/#2010
+2024-06-01 13:26:33,770 - INFO - Script finished
+2024-06-01 13:27:05,216 - INFO - Script started
+2024-06-01 13:27:05,244 - INFO - Successfully scraped tables from scraping2010.html
+2024-06-01 13:27:06,330 - INFO - Successfully scraped heading from https://www.scrapethissite.com/pages/ajax-javascript/#2010
+2024-06-01 13:27:07,309 - INFO - Successfully scraped description from https://www.scrapethissite.com/pages/ajax-javascript/#2010
+2024-06-01 13:27:07,316 - INFO - Script finished
+2024-06-01 13:27:09,052 - INFO - Script started
+2024-06-01 13:27:10,151 - INFO - Successfully scraped hockey data from https://www.scrapethissite.com/pages/forms/?page_num=1
+2024-06-01 13:27:11,261 - INFO - Successfully scraped heading from https://www.scrapethissite.com/pages/forms/?page_num=1
+2024-06-01 13:27:12,402 - INFO - Successfully scraped description from https://www.scrapethissite.com/pages/forms/?page_num=1
+2024-06-01 13:27:12,406 - INFO - Script finished
+2024-06-01 13:27:55,427 - INFO - Script started
+2024-06-01 13:27:55,457 - INFO - Successfully scraped tables from scraping2010.html
+2024-06-01 13:27:56,530 - INFO - Successfully scraped heading from https://www.scrapethissite.com/pages/ajax-javascript/#2010
+2024-06-01 13:27:57,541 - INFO - Successfully scraped description from https://www.scrapethissite.com/pages/ajax-javascript/#2010
+2024-06-01 13:27:57,571 - INFO - Script finished
+2024-06-01 13:28:43,278 - INFO - Script started
+2024-06-01 13:28:43,294 - INFO - Successfully scraped tables from scraping2010.html
+2024-06-01 13:28:44,323 - INFO - Successfully scraped heading from https://www.scrapethissite.com/pages/ajax-javascript/#2010
+2024-06-01 13:28:45,374 - INFO - Successfully scraped description from https://www.scrapethissite.com/pages/ajax-javascript/#2010
+2024-06-01 13:28:45,381 - INFO - Script finished
+2024-06-01 13:30:20,539 - INFO - Script started
+2024-06-01 13:30:20,574 - INFO - Successfully scraped tables from scraping2010.html
+2024-06-01 13:30:21,906 - INFO - Successfully scraped heading from https://www.scrapethissite.com/pages/ajax-javascript/#2010
+2024-06-01 13:30:23,104 - INFO - Successfully scraped description from https://www.scrapethissite.com/pages/ajax-javascript/#2010
+2024-06-01 13:30:23,150 - INFO - Script finished
+2024-06-01 13:30:28,335 - INFO - Script started
+2024-06-01 13:30:29,701 - INFO - Successfully scraped hockey data from https://www.scrapethissite.com/pages/forms/?page_num=1
+2024-06-01 13:30:31,088 - INFO - Successfully scraped heading from https://www.scrapethissite.com/pages/forms/?page_num=1
+2024-06-01 13:30:32,868 - INFO - Successfully scraped description from https://www.scrapethissite.com/pages/forms/?page_num=1
+2024-06-01 13:30:33,020 - INFO - Script finished
+2024-06-01 13:30:37,107 - INFO - Script started
+2024-06-01 13:30:38,723 - INFO - Successfully scraped hockey data from https://www.scrapethissite.com/pages/forms/?page_num=4
+2024-06-01 13:30:40,406 - INFO - Successfully scraped heading from https://www.scrapethissite.com/pages/forms/?page_num=4
+2024-06-01 13:30:41,753 - INFO - Successfully scraped description from https://www.scrapethissite.com/pages/forms/?page_num=4
+2024-06-01 13:30:41,761 - INFO - Script finished
+2024-06-01 13:30:43,149 - INFO - Script started
+2024-06-01 13:30:44,412 - INFO - Successfully scraped content from https://www.scrapethissite.com/pages/advanced/
+2024-06-01 13:30:44,421 - INFO - Script finished
+2024-06-01 13:30:47,374 - INFO - Script started
+2024-06-01 13:30:47,398 - INFO - Successfully scraped tables from scraping2010.html
+2024-06-01 13:30:48,774 - INFO - Successfully scraped heading from https://www.scrapethissite.com/pages/ajax-javascript/#2010
+2024-06-01 13:30:50,045 - INFO - Successfully scraped description from https://www.scrapethissite.com/pages/ajax-javascript/#2010
+2024-06-01 13:30:50,051 - INFO - Script finished
+2024-06-01 13:30:50,309 - INFO - Script started
+2024-06-01 13:30:50,595 - INFO - Successfully scraped tables from scraping2013.html
+2024-06-01 13:30:51,918 - INFO - Successfully scraped heading from https://www.scrapethissite.com/pages/ajax-javascript/#2013
+2024-06-01 13:30:53,476 - INFO - Successfully scraped description from https://www.scrapethissite.com/pages/ajax-javascript/#2013
+2024-06-01 13:30:53,483 - INFO - Script finished
+2024-06-01 13:34:49,599 - INFO - Script started
+2024-06-01 13:34:49,621 - INFO - Successfully scraped tables from scraping2013.html
+2024-06-01 13:34:51,005 - INFO - Successfully scraped heading from https://www.scrapethissite.com/pages/ajax-javascript/#2013
+2024-06-01 13:34:52,917 - INFO - Successfully scraped description from https://www.scrapethissite.com/pages/ajax-javascript/#2013
+2024-06-01 13:34:52,924 - INFO - Script finished

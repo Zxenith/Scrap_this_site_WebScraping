@@ -1,0 +1,331 @@
+<!DOCTYPE html>
+<!-- saved from url=(0058)https://www.scrapethissite.com/pages/ajax-javascript/#2013 -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <title>Oscar Winning Films: AJAX and Javascript | Scrape This Site | A public sandbox for learning web scraping</title>
+    <link rel="icon" type="image/png" href="./Oscar Winning Films_ AJAX and Javascript _ Scrape This Site _ A public sandbox for learning web scraping_files/scraper-icon.png">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Click through a bunch of great films. Learn how content is added to the page asynchronously with Javascript and how you can scrape it.">
+
+    <link href="./Oscar Winning Films_ AJAX and Javascript _ Scrape This Site _ A public sandbox for learning web scraping_files/bootstrap.min.css" rel="stylesheet" integrity="sha256-MfvZlkHCEqatNoGiOXveE8FIwMzZg4W85qfrfIFBfYc= sha512-dTfge/zgoMYpP7QbHy4gWMEGsbsdZeCXz7irItjcC3sPUFtf0kuFbDz/ixG7ArTxmDjLXDmezHubeNikyKGVyQ==" crossorigin="anonymous">
+    <link href="./Oscar Winning Films_ AJAX and Javascript _ Scrape This Site _ A public sandbox for learning web scraping_files/css" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" type="text/css" href="./Oscar Winning Films_ AJAX and Javascript _ Scrape This Site _ A public sandbox for learning web scraping_files/styles.css">
+
+    
+<meta name="robots" content="noindex">
+<link href="./Oscar Winning Films_ AJAX and Javascript _ Scrape This Site _ A public sandbox for learning web scraping_files/flag-icon.css" rel="stylesheet">
+
+
+  </head>
+
+  <body>
+    <nav id="site-nav">
+            <div class="container">
+                <div class="col-md-12">
+                    <ul class="nav nav-tabs">
+                        <li id="nav-homepage">
+                            <a href="https://www.scrapethissite.com/" class="nav-link hidden-sm hidden-xs">
+                                <img src="./Oscar Winning Films_ AJAX and Javascript _ Scrape This Site _ A public sandbox for learning web scraping_files/scraper-icon.png" id="nav-logo">
+                                Scrape This Site
+                            </a>
+                        </li>
+                        <li id="nav-sandbox" class="">
+                            <a href="https://www.scrapethissite.com/pages/" class="nav-link">
+                                <i class="glyphicon glyphicon-console hidden-sm hidden-xs"></i>
+                                Sandbox
+                            </a>
+                        </li>
+                        <li id="nav-lessons">
+                            <a href="https://www.scrapethissite.com/lessons/" class="nav-link">
+                                <i class="glyphicon glyphicon-education hidden-sm hidden-xs"></i>
+                                Lessons
+                            </a>
+                        </li>
+                        <li id="nav-faq">
+                            <a href="https://www.scrapethissite.com/faq/" class="nav-link">
+                                <i class="glyphicon glyphicon-flag hidden-sm hidden-xs"></i>
+                                FAQ
+                            </a>
+                        </li>
+                        
+                        <li id="nav-login" class="pull-right">
+                            <a href="https://www.scrapethissite.com/login/" class="nav-link">
+                                Login
+                            </a>
+                        </li>
+                        
+                    </ul>
+                </div>
+            </div>
+        </nav>
+
+        <script async="" src="./Oscar Winning Films_ AJAX and Javascript _ Scrape This Site _ A public sandbox for learning web scraping_files/fbevents.js.download"></script><script async="" src="./Oscar Winning Films_ AJAX and Javascript _ Scrape This Site _ A public sandbox for learning web scraping_files/analytics.js.download"></script><script type="text/javascript">
+            var path = document.location.pathname;
+            var tab = undefined;
+            if (path === "/"){
+                tab = document.querySelector("#nav-homepage");
+            } else if (path.indexOf("/faq/") === 0){
+                tab = document.querySelector("#nav-faq");
+            } else if (path.indexOf("/lessons/") === 0){
+                tab = document.querySelector("#nav-lessons");
+            } else if (path.indexOf("/pages/") === 0) {
+                tab = document.querySelector("#nav-sandbox");
+            } else if (path.indexOf("/login/") === 0) {
+                tab = document.querySelector("#nav-login");
+            }
+            tab.classList.add("active")
+        </script>
+
+    
+
+    <div id="page">
+
+        <section id="oscars">
+            <div class="container">
+
+                <div class="row">
+                    <div class="col-md-12">
+                        <h1>
+                            Oscar Winning Films: AJAX and Javascript
+                            <small>87 items</small>
+                        </h1>
+                        <hr>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-12">
+                        <p class="lead">
+                            Click through a bunch of great films. Learn how content is added to the page asynchronously with Javascript and how you can scrape it.
+                            Look for ways that you can tell visually when a site is loading content with AJAX. Then, browse through your network tab to see those AJAX requests and scrape them.
+                        </p>
+                        <hr>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-6">
+                        <p>
+                            <i class="glyphicon glyphicon-education"></i> There are <a href="https://www.scrapethissite.com/lessons/">3 video lessons</a> that show you how to scrape this page.
+                        </p>
+                        <hr>
+                    </div>
+                    <div class="col-md-6 text-right">
+                        <p>
+                            
+                                Data via
+                                <a href="https://en.wikipedia.org/wiki/List_of_Academy_Award-winning_films" class="data-attribution" target="_blank">https://en.wikipedia.org/wiki/List_of_Academy_Award-winning_films</a>
+                            
+                        </p>
+                        <hr>
+                    </div>
+                </div>
+
+                <div class="row">
+                    <div class="col-md-12 text-center">
+                        <h3>
+                            Choose a Year to View Films
+                        </h3>
+                        <a href="https://www.scrapethissite.com/pages/ajax-javascript/#" class="year-link" id="2015">2015</a>
+                        <a href="https://www.scrapethissite.com/pages/ajax-javascript/#" class="year-link" id="2014">2014</a>
+                        <a href="https://www.scrapethissite.com/pages/ajax-javascript/#" class="year-link active" id="2013">2013</a>
+                        <a href="https://www.scrapethissite.com/pages/ajax-javascript/#" class="year-link" id="2012">2012</a>
+                        <a href="https://www.scrapethissite.com/pages/ajax-javascript/#" class="year-link" id="2011">2011</a>
+                        <a href="https://www.scrapethissite.com/pages/ajax-javascript/#" class="year-link" id="2010">2010</a>
+                    </div><!--.col-->
+                </div><!--.row-->
+
+                <div class="row">
+                    <div class="col-md-12">
+                        <div id="loading" style="display: none;">
+                            <img src="./Oscar Winning Films_ AJAX and Javascript _ Scrape This Site _ A public sandbox for learning web scraping_files/ajax-loader.gif" class="center-block">
+                        </div>
+                        <table class="table" style="display: table;">
+                            <thead>
+                                <tr>
+                                    <th>Title</th>
+                                    <th>Nominations</th>
+                                    <th>Awards</th>
+                                    <th>Best Picture</th>
+                                </tr>
+                            </thead>
+                            <tbody id="table-body"><tr class="film"><td class="film-title">12 Years a Slave</td><td class="film-nominations">9</td><td class="film-awards">3</td><td class="film-best-picture"><i class="glyphicon glyphicon-flag"></i></td></tr><tr class="film"><td class="film-title">Gravity</td><td class="film-nominations">10</td><td class="film-awards">7</td><td class="film-best-picture"></td></tr><tr class="film"><td class="film-title">Dallas Buyers Club</td><td class="film-nominations">6</td><td class="film-awards">3</td><td class="film-best-picture"></td></tr><tr class="film"><td class="film-title">Frozen</td><td class="film-nominations">2</td><td class="film-awards">2</td><td class="film-best-picture"></td></tr><tr class="film"><td class="film-title">The Great Gatsby</td><td class="film-nominations">2</td><td class="film-awards">2</td><td class="film-best-picture"></td></tr><tr class="film"><td class="film-title">Her</td><td class="film-nominations">5</td><td class="film-awards">1</td><td class="film-best-picture"></td></tr><tr class="film"><td class="film-title">Blue Jasmine</td><td class="film-nominations">3</td><td class="film-awards">1</td><td class="film-best-picture"></td></tr><tr class="film"><td class="film-title">Mr Hublot</td><td class="film-nominations">1</td><td class="film-awards">1</td><td class="film-best-picture"></td></tr><tr class="film"><td class="film-title">The Lady in Number 6: Music Saved My Life</td><td class="film-nominations">1</td><td class="film-awards">1</td><td class="film-best-picture"></td></tr><tr class="film"><td class="film-title">Helium</td><td class="film-nominations">1</td><td class="film-awards">1</td><td class="film-best-picture"></td></tr><tr class="film"><td class="film-title">The Great Beauty</td><td class="film-nominations">1</td><td class="film-awards">1</td><td class="film-best-picture"></td></tr><tr class="film"><td class="film-title">20 Feet from Stardom</td><td class="film-nominations">1</td><td class="film-awards">1</td><td class="film-best-picture"></td></tr></tbody>
+                        </table>
+                    </div><!--.col-->
+                </div><!--.row-->
+
+            </div><!--.container-->
+        </section>
+
+    </div><!--#page-->
+
+
+    <section id="footer">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12 text-center text-muted">
+                    Lessons and Videos © Hartley Brody 2023
+                </div><!--.col-->
+            </div><!--.row-->
+        </div><!--.container-->
+    </section>
+  
+
+  <script src="./Oscar Winning Films_ AJAX and Javascript _ Scrape This Site _ A public sandbox for learning web scraping_files/jquery.min.js.download"></script>
+  <script src="./Oscar Winning Films_ AJAX and Javascript _ Scrape This Site _ A public sandbox for learning web scraping_files/bootstrap.min.js.download" integrity="sha256-Sk3nkD6mLTMOF0EOpNtsIry+s1CsaqQC1rVLTAy+0yc= sha512-K1qjQ+NcF2TYO/eI3M6v8EiNYZfA95pQumfvcVrTHtwQVDG+aHRqLi/ETn2uB+1JqwYqVG3LIvdm9lj6imS/pQ==" crossorigin="anonymous"></script>
+
+  
+<script type="text/javascript">
+    $(document).ready( function(){
+        $(".year-link").click( function(e){
+            var target = $(e.target);
+            var year = target.attr("id");
+
+            document.location.hash = year;
+            fetchFilms(year);
+            return false;
+        });
+
+        if (document.location.hash){
+            var year = document.location.hash.substr(1)
+            fetchFilms(year);
+        }
+
+        function fetchFilms(year){
+            showLoadingAnimation();
+            $.ajax({
+                method: "GET",
+                url: document.location.pathname,
+                data: {
+                    ajax: true,
+                    year: year
+                },
+                success: function(data){
+                    setTimeout( function(){
+                        showFilms(data);
+                    }, 1500);  // add intentional delay to emphasize async UI
+                },
+                error: function(){
+                    alert("Error loading films :(");
+                }
+            });
+            $(".active").removeClass("active");
+            $("#"+year).addClass("active");
+        }
+
+        function showLoadingAnimation(){
+            $(".table").hide();
+            $("#loading").show();
+        }
+        function showFilms(films){
+            // console.log(films);
+            var films_html = "";
+            $.each(films, function(_, film){
+                var film_html = "";
+                film_html += "<tr class='film'>"
+                    film_html += "<td class='film-title'>" + film["title"] + "</td>"
+                    film_html += "<td class='film-nominations'>" + film["nominations"] + "</td>"
+                    film_html += "<td class='film-awards'>" + film["awards"] + "</td>"
+                    if (film["best_picture"]) {
+                        film_html += "<td class='film-best-picture'><i class='glyphicon glyphicon-flag'></i></td>"
+                    } else {
+                        film_html += "<td class='film-best-picture'></td>"
+                    }
+                film_html += "</tr>"
+                films_html += film_html;
+            })
+            $("#table-body").html(films_html);
+            $(".table").show();
+            $("#loading").hide();
+        }
+    });
+</script>
+
+
+  <script src="./Oscar Winning Films_ AJAX and Javascript _ Scrape This Site _ A public sandbox for learning web scraping_files/pnotify.core.min.js.download"></script>
+  <link href="./Oscar Winning Films_ AJAX and Javascript _ Scrape This Site _ A public sandbox for learning web scraping_files/pnotify.core.min.css" rel="stylesheet" type="text/css">
+
+  <!-- pnotify messages -->
+  <script type="text/javascript">
+    
+    PNotify.prototype.options.styling = "bootstrap3";
+    $(function(){
+      
+    });
+    
+
+    $(function () {
+      $('[data-toggle="tooltip"]').tooltip()
+    })
+  </script>
+
+  <!-- golbal video controls -->
+  <script type="text/javascript">
+    $("video").hover(function() {
+        $(this).prop("controls", true);
+    }, function() {
+        $(this).prop("controls", false);
+    });
+
+    $("video").click(function() {
+        if( this.paused){
+            this.play();
+        }
+        else {
+            this.pause();
+        }
+    });
+    </script>
+
+  <!-- insert google analytics here -->
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-41551755-8', 'auto');
+    ga('send', 'pageview');
+  </script>
+
+  <!-- Facebook Pixel Code -->
+  <script>
+  !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+  n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+  document,'script','https://connect.facebook.net/en_US/fbevents.js');
+
+  fbq('init', '764287443701341');
+  fbq('track', "PageView");</script>
+  <noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=764287443701341&ev=PageView&noscript=1"
+  /></noscript>
+  <!-- End Facebook Pixel Code -->
+
+  <!-- Google Code for Remarketing Tag -->
+  <script type="text/javascript">
+    /* <![CDATA[ */
+    var google_conversion_id = 950945448;
+    var google_custom_params = window.google_tag_params;
+    var google_remarketing_only = true;
+    /* ]]> */
+    </script>
+    <script type="text/javascript" src="./Oscar Winning Films_ AJAX and Javascript _ Scrape This Site _ A public sandbox for learning web scraping_files/f.txt">
+    </script>
+    <noscript>
+    <div style="display:inline;">
+    <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/950945448/?guid=ON&amp;script=0"/>
+    </div>
+  </noscript>
+
+  <!-- Global site tag (gtag.js) - Google AdWords: 950945448 -->
+  <script async="" src="./Oscar Winning Films_ AJAX and Javascript _ Scrape This Site _ A public sandbox for learning web scraping_files/js"></script>
+  <script>
+   window.dataLayer = window.dataLayer || [];
+   function gtag(){dataLayer.push(arguments);}
+   gtag('js', new Date());
+
+   gtag('config', 'AW-950945448');
+  </script>
+
+</body></html>
