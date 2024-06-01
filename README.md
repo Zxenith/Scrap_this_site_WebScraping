@@ -6,8 +6,6 @@ This Python script performs web scraping to gather data from various web pages, 
 
 To run the script, ensure all required libraries are installed and execute the script. The Streamlit application will open in a web browser, allowing users to select and view scraped data.
 
-Uncomment the appropriate function calls in the `main` function to run specific parts of the script independently for testing or development purposes.
-
 ## Logging
 
 The script logs its activities to a file named `scraping.log` with timestamps, log levels, and messages to help with debugging and tracking execution flow.
