@@ -16,7 +16,7 @@ The script logs its activities to a file named `scraping.log` with timestamps, l
 
 Ensure MongoDB is running locally on the default port (27017) before executing the script, as it stores the scraped data in MongoDB collections. Adjust the MongoDB connection string if necessary.
 
-## Streamlit
+## Front-End Web Interface
 
 Run the script using Streamlit to access the web-based interface. Use the following command in Command Prompt to start the Streamlit app:
 
