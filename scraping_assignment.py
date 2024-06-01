@@ -288,10 +288,8 @@ def front_end_final():
 def main():
     logging.info('Script started')
 
-    # front_end_selector()
-    # all_movies()
-    # all_hockey()
-    # front_end_selector2()
+    all_movies()
+    all_hockey()
 
     with st.sidebar:
         select = option_menu("Select Page to Scrape",
